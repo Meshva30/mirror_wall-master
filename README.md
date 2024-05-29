@@ -19,13 +19,8 @@ The aim of this project is to develop a mobile browser application using the Flu
   <img src="https://github.com/Drashtipatel296/mirror_wall/assets/143180636/c3e1e868-ccf7-41db-b328-64af674f4e82" height=500px> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-## Packages Used :-
--   **cupertino_icons**: ^1.0.6
--   **flutter_inappwebview**: ^6.0.0
--   **provider**: ^6.1.2
--   **connectivity_plus**: ^6.0.3
 
-## Screenshots :-
+
 
 ### Google Chrome
 <div align="center">
